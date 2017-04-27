@@ -1,0 +1,9 @@
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\bin\Debug\strdef-project.exe.config
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\bin\Debug\strdef-project.exe
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\bin\Debug\strdef-project.pdb
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef-project.csprojResolveAssemblyReference.cache
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef_project.Properties.Resources.resources
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef-project.csproj.GenerateResource.Cache
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef-project.exe
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef-project.pdb
+G:\NakiuS\Reborn Project\Tools\strdef-project\strdef-project\obj\Debug\strdef_project.MainWindow.resources

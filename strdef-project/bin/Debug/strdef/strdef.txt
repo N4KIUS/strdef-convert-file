@@ -1,0 +1,2000 @@
+
+Não há espaço no inventário.
+Selecionar outro servidor?
+ID muito curto.
+ID muito longo.
+Senha muito curta.
+Senha muito longa.
+Conectando no servidor.
+Falha ao tentar conectar. 
+Novo cadastro somente via website.
+Gostaria de se cadastrar?
+Selecionar outro servidor?
+Conexão anterior finalizada. Tente novamente.
+Foi desconectado do servidor. 
+Selecione o personagem.
+Nome deve ter mais de 4 caracteres.
+Nome deve ter menos de 12 caracteres.
+Nome inadequado.
+Deseja realmente excluir?
+Nome inadequado ou já existente.
+Falha ao apagar o personagem.
+Falha ao logar o personagem.
+Deseja sair do jogo?
+Verificando a conexão.
+Selecione o canal e o servidor.
+Canal escolhido está cheio. Escolha outro canal.
+Impossível de conectar. Escolha outro canal.
+Retornar para a cidade?
+Realizar a troca?
+Entrada permitida apenas para nível 35 ou inferior.
+Mana insuficiente.
+Selecione o membro do grupo com o botão direito do mouse.
+Uso somente quando estiver em grupo.
+Por favor não incomode outros jogadores.
+Valor de gold incorreto.
+Você já está negociando com outra pessoa.
+Deseja realmente expulsar da Guilda?
+Negociante não existente.
+Você não está na zona de teleporte.
+Impossível aumentar status.
+Impossível convocar a si mesmo.
+Aguarde 2 segundos e aperte o botão.
+Zona PvP. Retorne se não desejar PvP.
+Deseja ir para outra cidade?
+Programa de AutoMouse detectado.
+Programa de AutoMacro detectado.
+Solicitar Guerra entre Guildas?
+Aprender Skill %s?
+%s (Impossível de Refinar)
+Alcance da Skill : %d
+Gasto de Mana : %d
+Dano de Skill : %d
+Propriedades da Skill : %s
+Necessita %s Pontos Especiais : %d
+Level necessário : %d
+%s Pontos Especiais : %d
+(Duas mãos:%d)
+Preço : %d
+Preço de Venda : %d
+Pontos de Skill : %d
+Menu para '%s'
+Responder
+%s' pediu para entrar no seu grupo.
+Para entrar no grupo, clique '%s' na janela do grupo.
+com [%s]
+Gold %d
+Canal %d Grupo
+Servidor de Teste
+%d-%d Canal
+Teste-%d Canal
+Inexistente
+Medalha da Guilda
+Mestre
+Classe
+Level necessário
+Força necessária
+Inteligência necessária
+Destreza necessária
+Constituição necessária
+Aumento de Dano
+Defesa 
+Aumento de HP máximo 
+Aumento de MP máximo
+Índice de aumento de HP máximo
+Índice de aumento de MP máximo
+Economia de Mana
+Crítico
+Índice de regeneração de HP
+Índice de regeneração de MP
+Aumento de Imunidades
+Aumento da Velocidade de Movimento
+Resistência a Fogo
+Resistência a Gelo
+Resistência a Sagrado
+Resistência a Relâmpago
+Aprender Arma
+Confiança/Magia Branca/Elemental/Sobrevivência
+Trans/Magia Negra/Evocação/Troca
+Espada Mágica/Magia Especial/Natureza/Captura
+Aumento da Velocidade de Ataque
+Força
+Inteligência
+Destreza
+Constituição
+Ataque Mágico
+Número de índice exclusivo
+Aprender Arma
+Confiança
+Trans
+Espada Mágica
+Magia Branca
+Magia Negra
+Magia Especial
+Elemental
+Evocação
+Natureza
+Inexistente
+Fogo
+Gelo
+Relâmpago
+Sagrado
+TransKnight
+Foema
+BeastMaster
+Huntress
+Armia
+Azran
+Sem nome
+Reiniciar Confiança/Magia Branca/Elemental/Sobrevivência
+Reiniciar Trans/Magia Negra/Evocação/Troca
+Reiniciar Espada Mágica/Magia Especial/Natureza/Captura
+Deseja reiniciar as skills da linhagem da classe? 
+Deseja ir para a página de pagamento?
+Sobrevivência
+Troca
+Captura
+Insira o valor de gold desejado para armazenar.
+Insira o valor de gold para troca.
+Insira o valor de gold desejado para retirar.
+Skill Passiva
+Aumento de Aprendizagem de Skill.
+Insira um nome para a sua loja.
+Insira o valor dos seus produtos.
+O valor dos seus produtos devem ser menor que %d Gold.
+Deseja realmente comprar?
+Selecione os itens para troca.
+Taxa de Imposto
+Insira o valor da aposta para a Guerra entre Guildas.
+Adquiriu %d de experiência 
+Deseja trocar '%s' de gold 
+Transformar em gold?
+Diminua o delay antes de usar a próxima skill.
+Deseja continuar?
+Você aceita o desafio de '%s' para %s 
+Aceita participar da Disputa de Ranking?
+Não há gold suficiente.
+Este jogador já foi chamado para o grupo.
+Modo PvP
+Declarar guerra?
+Convocar os membros da Guilda?
+É necessário o Pergaminho da Água para entrar na Zona Elemental da Água. 
+Foi detectado forma de jogo ilegal.
+Valor Crítico de Incubação.
+Vitalidade
+HP
+Crescimento
+Ração
+Level
+Situação: Morto
+Tempo de Espera para Incubação
+Situação: Possível de Incubar
+EX
+Modo Corrida
+Erion
+Índice de Evasão
+Registrar Ticket?
+Número
+Título
+Autor
+Visitas
+Data
+http://www.wyd.com.br/forum_guild/guildbbs_list3
+http://www.wyd.com.br/forum_guild/guildbbs_view3
+http://www.wyd.com.br/forum_guild/guildbbs_reply3
+http://www.wyd.com.br/forum_guild/guildbbs_modify3
+http://www.wyd.com.br/forum_guild/guildbbs_write3
+http://www.wyd.com.br/forum_guild/guildbbs_delete3
+Apenas 10 comentários permitidos.
+Falha ao armazenar.
+Impossível excluir.
+Não foi possível trazer informações.
+/guildaforum
+Item para composição deve ser pelo menos +9.
+É necessário equipar a Pedra do Sábio.
+Os ingredientes para compor precisam ser itens ao menos +7.
+Aumento de %d%% na Taxa de Drop.
+Dano de Perfuração.
+Aumento de %d%% de Experiência.
+Absorver Dano.
+http://www.wyd.com.br/wyd_br/update_regular/guilds.txt
+Ir para o Servidor Principal?
+%s' foi movido para o Servidor Principal.
+Existe o mesmo nome no Servidor Principal.
+Você já possui 4 personagens no Servidor Principal. 
+Erro desconhecido.
+Este usuário já está conectado no Servidor Principal.
+Enviando pedido ao servidor.
+A taxa de transferência é de %d Gold.
+Ir para '%s'?
+Reino de Noatun
+Campo fora do Castelo de Noatun
+Campo Azran
+Calabouço
+Campo Armia
+Calabouço 1º Andar
+Calabouço 2º Andar
+Calabouço 3º Andar
+Assistir a Guerra entre Guildas.
+Submundo
+Submundo 1º Andar
+Submundo 2º Andar
+Deseja realizar a Aliança entre as Guildas?
+Será transferido para a cidade após %d segundos.
+Será teleportado após %d segundos.
+O Jogo será finalizado após %d segundos.
+Será enviado para a tela de seleção de personagem após %d segundos.
+Mensagem enviada pelo jogador %s.
+Deseja Ressuscitar?
+Aceita ser convocado por %s?
+Você aceita?
+ 1 2 3 4 5 
+Gasto de Mana: Total
+Modo Corrida Auto
+Deseja compor a Pedra da Alma?
+Transportar
+Possível conectar apenas no Servidor de Teste.
+Possível conectar apenas nos Servidores Oficiais.
+Informação
+Confirmar
+Cancelar
+http://www.wyd.com.br
+Pergunte ao Mestre de Skills, componha Sephiroth e traga para mim.
+Aprender Arma
+Confiança
+Trans
+Espada Mágica
+Aprender Arma
+Magia Branca
+Magia Negra
+Magia Especial
+Aprender Arma
+Elemental
+Evocação
+Natureza
+Aprender Arma
+Sobrevivência
+Troca
+Captura
+É necessário o convite para entrar no Cubo da Maldade.
+Guilda
+Quiz
+É necessário equipar pedras refinadas.
+Os dois items para compor precisam possuir o mesmo nome.
+http://www.wyd.com.br
+Valor de venda_%d_Gold
+Complete os números.
+Você já escolheu este número.
+Número da Loto
+É o Loto da semana %d.
+http://www.wyd.com.br/itemmall/goods_login.asp
+Sair
+A loja não é exibida na Baixa Resolução.
+São necessárias 4 unidades da Pedra da Luz.
+Coloque os itens exclusivos para Archs.
+Coloque os itens necessários para a composição.
+Coloque items da linha Anã, Conjuradora, Aeon, Natureza ou superior.
+Parte inadequada.
+Coloque as jóias.
+Necessita de mais espaço no inventário.
+http://www.wyd.com.br
+Entrada Permitida.
+Entrada NÃO Permitida.
+%d centenas de milhões
+%d0 000
+Gold
+Utilize após remover ovos ou montarias.
+Para utilizar o Retorno da Habilidade, fale com o Mestre Haby (Armia).
+2
+5
+Deseja expulsar o %s do grupo?
+Servidor exclusivo para maiores de 18 anos.
+ %d Dia(s)
+ %d Horas(s)
+ %d Min(s)
+Monstro
+Para compor um item, deve utilizar um item +9 ou superior.
+Mês %d
+Ano %d
+Hora %d
+Validade
+100000000 EXP serão descontados. Deseja prosseguir?
+Campo Nipleheim
+Deve equipar o item Ancient
+Item Inadequado.
+C. POINT %14d / %d%%
+%d C.POINT foram reduzidos.
+Um item composto pode ser composto novamente.
+Nova Quest
+Poderá visualizar os efeitos da combinação estimada através da janela de previsão.
+Impossível de trocar ou comercializar o item.
+Localização do Portal [Armia, Azran]
+Localização do Portal [Submundo]
+Localização do Portal [Portão Infernal]
+Localização do Portal [Deserto de Kult]
+Localização do Portal [Kefra]
+Localização do Portal [Nipleheim]
+Necessita da Barra de Prata (1Bi)
+É necessário o Pergaminho Selado.
+É necessário a Poeira de Lactolerium.
+Deseja realmente compor?
+É necessário a Pedra Espiritual.
+Karden
+Calabouço Abandonado
+TK-TK
+TK-FO
+TK-BM
+TK-HT
+FO-TK
+FO-FO
+FO-BM
+FO-HT
+BM-TK
+BM-FO
+BM-BM
+BM-HT
+HT-TR
+HT-FO
+HT-BM
+HT-HT
+Por favor insira o nome do personagem utilizando letras ou números.
+Não pode ser vendido.
+http://m2.ongame.com.br/eventos/big-sale-dia-das-criancas-2014
+'%s'
+Deseja realmente vender o item?
+Longos períodos de jogo pode ser prejudicial à saúde.
+Sempre descanse após longos períodos de jogo.
+%d horas de jogo se passaram.
+%d horas de jogo se passaram. Descanse um pouco.
+Serão reduzidos 100 Pontos PK. Deseja prosseguir com a Quest?
+Insira o nome do personagem.
+Você deseja travar seu personagem?
+Contador do jogo
+Data do jogo
+Placar do jogo
+Coloque a Letra Rúnica ou Poeira de Lactolerium a ser combinada.
+Custo da Combinação
+Prosseguir para a segunda mudança de Classe?
+A 8ª Skill é necessária para a utilização desta Skill.
+A Quest Descoberta dos 4 cristais esta em andamento.
+Você tem que equipar itens normais.
+Você precisa equipar a Essência do Poder Mágico. 
+Você precisa equipar o mesmo tipo de jóia.
+Você quer se registrar como membro da Guilda %s?
+Digite o nome do Líder da Guilda.
+Esse usuário já entrou na Guilda.
+Esse usuário já entrou em uma outra Guilda.
+Esse usuário já é Chefe de Guilda.
+Esse jogador ainda não faz parte de nenhuma guilda.
+Você tem que equipar montarias normais.
+A montaria tem que estar morta.
+Não pode criar Guilda.
+Não pode criar Sub-Guilda.
+Não pode sair da Guilda.
+Não pode transferir Guilda.
+Qual canal deseja declarar Guerra?
+Qual canal deseja recusar o pedido de Guerra?
+Skill não disponível para registro.
+http://www.wyd.com.br/guilds/img_guilds/
+Rota de Viagem
+Local de Viagem
+Coordenada de Viagem
+Custo da Utilização
+[Nome do Campo]
+Localização do Portal
+Coordenada do Portal
+Mileage : %d
+criar
+transferir
+expulsar
+
+sitguerra
+fimcidadao
+Já se passaram %d horas desde o seu Login.
+Após sair do jogo, procure descansar ou praticar esportes.
+Você está conectado por um tempo, não exceda seu limite.
+A partir de agora receberá apenas 50% de chance de taxa.
+Para a sua saúde, recomendamos que saia do jogo e descanse por 1 hora.
+Procure fazer outras atividades mais saudáveis.
+Você está conectado por muito tempo, excedendo o tempo de jogo.
+Após sair do jogo, procure descansar.
+Caso continue jogando, poderá prejudicar a sua saúde.
+A taxa foi reduzida em 0% devido ao excesso de jogo.
+Para jogar normalmente, permaneça algumas horas desconectado.
+http://wyd.ongame.com.br
+Deseja se tornar cidadão deste canal?
+Por favor insira sua senha.
+-
+Quando desafiar Guerra entre Guildas, Fama será reduzida, deseja continuar?
+Quantos deseja separar?
+Quantidade incorreta.
+Ingredientes de Amunra são necessários.
+Pedra Amunra deve ser anexada.
+Itens insuficientes.
+Quantidade insuficiente.
+Gold insuficiente.
+Não possui o nível adequado.
+Classe Inadequada.
+Por ordem de chegada:
+Limite de Nível:
+Missão de Classe:
+Mortal
+Arch
+Celestial
+Gold necessário: 
+Fama necessária:
+Recompensa: 
+Peça
+Custo da Recompensa: 
+EXP da Recompensa: 
+Opções
+Junção
+Aumento
+Jóia
+Item
+Escolha uma Item disponível.
+Fama
+Fama de Guilda
+Fama de Guilda foi reduzida, drop aumentará em 10%.
+%s' é necessário.
+Ataque PvP : %d.%d%%
+Defesa PvP : %d.%d%%
+Pedra Amunra +9 ou superior
+
+
+
+
+ATIVADO
+DESATIVADO
+Sussurro: 
+Chat Cidadania :
+Chat Guilda / Convidar :
+Chat Reino :
+Chat Normal :
+Safira
+Item +9 ou superior
+Runa
+Poeira de Lac
+Acessório +9 ou superior
+Pedra Espiritual +9 ou superior
+Selo Mágico
+Refinação Abençoada
+Jóia
+Pedra da Luz
+Item Arch +9 ou superior
+Itens +7 ou superior
+Pedra Espiritual
+Item selado +9 ou superior
+Item Arch +15
+Jóia da Escuridão / Pedra Lunar
+Pergaminho Selado
+Selo do Guerreiro
+Pedra Espiritual +9 ou superior
+Item +11 ou superior
+Pedra Secreta
+Lactolerium / Pingente
+Pedra Secreta/ Refinação Abençoada
+Modo Auto HP/MP(%d%%) / Montaria(%d%%) 
+Modo Auto Montaria [Desligado]
+Modo Auto Montaria %d%%
+Modo Auto Regen HP/MP [Desligado]
+Modo Auto Regen HP/MP %d%%
+Veneno
+Montaria
+%s (Traje: %s)
+Traje de Montaria
+Campo de Guerra de Reino
+Preço de Custo : %d
+Fama : %d
+Tem certeza que quer se juntar à Guilda?
+Quais foram os itens vendidos?
+Jogo será encerrado em %d min. Saia do jogo pra salvar o seu progresso.
+Desligamento forçado.
+Mudou-se para um local seguro antes de 00h00, por favor, saia.
+O excesso de jogo é prejudicial à saúde.
+
+
+bloquear
+desbloquear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest: Seu ponto de skill aumentou por 9.
+Quest: Sua arma foi aprimorada.
+Quest: Você possui uma missão de guarda.
+Quest: Você aprova a proteção da cidade.
+Quest: Você ganhou um amuleto único como recompensa.
+Quest: Você completou a "Quest da Cythera Divina".
+Quest: Você completou a "Quest 7".
+Quest: Você completou a "Quest 8".
+Quest: Você completou a "Quest 9".
+Quest: Você completou a "Quest 10".
+Quest: Você completou a "Quest 11".
+Quest: Você completou a "Quest 12".
+Quest: Você completou a "Quest 13".
+Quest: Você completou a "Quest 14".
+Quest: Você completou a "Quest 15".
+Quest: Você completou a "Quest 16".
+AVISO: Servidor será reiniciado após 1 minuto.
+AVISO: Para salvar seu progresso é recomendável sair do jogo.
+AVISO: Reinicialização em 30 segundos.
+AVISO: Reinicialização em 20 segundos.
+AVISO: Reinicialização em 10 segundos.
+AVISO: Reiniciando...
+Rede está instável. Saindo do jogo.
+Somente o mestre de guilda pode desafiar para uma guerra de guildas.
+Dono da zona de guilda não pode desafiar a si mesmo.
+Desafiante da última semana não pode ser aplicado.
+Você já está aplicado numa guerra de guildas.
+Esta cidade não pode mais aceitar desafios.
+Você precisa do Cupom do Desafiante para aplicar para uma guerra de guildas.
+A candidatura da Guilda será recebida às 00h00.
+Não é mais possível convocar.
+Não é possível convocar o mesmo tipo num grupo.
+Grupo está cheio. Não é possível convocar mais membros.
+Por favor selecione um personagem.
+Servidor está ocupado. Tente novamente mais tarde.
+Versão do jogo incompatível com os servidores. Atualize o jogo pelo launcher.
+3 tentativas de senha incorreta ocasiona bloqueio de acesso durante 5 min.
+Aguarde...
+Serviço disponível somente para nível %s
+Sua conta está sendo usada em outro servidor.
+Você iniciou o jogo no modo direto.
+Você iniciou o jogo no modo gratuito.
+Você se conectou no modo independente.
+Esta quantia não pode ser armazenada.
+Esta quantia não pode ser retirada.
+Somente nível 35 ou inferior pode entrar no campo de treinamento.
+Você não pode entrar na zona de outra guilda.
+Personagem derrotado não pode ser invocado ou transferido.
+Você não pode invocar ou transferir nesta zona.
+O nível do oponente é muito alto para isto.
+Mana Insuficiente.
+Convocado por [%s].
+ + + + + SUBIU DE NÍVEL + + + + 
+3/4 BONUS
+2/4 BONUS
+1/4 BONUS
+Guerra de Guildas desta semana, Campeão é %s e Desafiante é %s.
+Sem desafiante. %s manterá seu título.
+Vencedor da guerra de guildas desta semana é %s.
+Necessário pelo menos nível 30 pra acessar o portal de teletransporte.
+Aprimorarei sua arma %s.
+Consiga 7 cristais, daí fale comigo.
+Traga uma arma para ser abençoada.
+Somente armas comuns podem ser abençoadas.
+Seu equipamento %s será aprimorado com os 7 cristais.
+Todos da cidade agradecem a sua ajuda %s.
+Por favor, receba isto como nossa gratidão.
+Soldado Líder de Azran está enviando o exército do colono.
+As tropas do sudeste estão em apuros. Eles precisam de ajuda.
+Obrigado por proteger a cidade.
+Você já completou esta Quest.
+Não há mais espaço.
+Este item não pode ser descartado.
+Possível somente com armas e armaduras equipadas.
+Este item não pode ser mais refinado.
+Refinação falhou.
+Falhou em subir de nível.
+Não há local armazenado para se teletransportar.
+Você não possui uma chave.
+Erro na transação.
+Transação disponível somente para Mestre de Guilda.
+Já há uma transação com outro jogador.
+Não possui gold suficiente.
+A contraparte não possui gold suficiente.
+Ambos os lados não possuem espaço suficiente pra receber o item.
+Não há espaço no inventário para realizar transações.
+A contraparte não possui espaço no inventário para realizar transações.
+Erro na transação.
+Convocado.
+Não pode usar quando morto.
+O jogador não está conectado.
+Não pode usar em sim mesmo.
+Não pode usar em personagens mortos.
+Não pode usar em membros da guilda ou grupo.
+Só pode usar quando convocado pelo grupo ou pelo Líder da Guilda.
+Não está disponível nesta área.
+Não pode transferir ou convocar devido a nível alto.
+Convocado por [%s]
+Teletransportado.
+[%s] teletransportou até sua posição.
+Responder
+Não há ninguém pra responder.
+[%s] : Online
+Só poderá usar o Chat Guildas se pertence a alguma.
+Não pode colocar mais pontos.
+Não pode passar do nível 200.
+Não pode aprender habilidades de outra classe.
+Não possui pontos suficientes.
+Você já aprendeu essa habilidade.
+Não possui nível para aprender essa habilidade.
+Não possui aprendizado para obter essa habilidade.
+Pode comprar itens apenas do mercador.
+Não possui gold suficiente.
+Somente o Mestre de Guilda pode comprar.
+Você não é um comerciante.
+Possível vender somente para comerciantes.
+Para criar um grupo você deve finalizar o grupo existente.
+Este jogador não está conectado.
+Este jogador já é membro de um grupo.
+Este jogador já criou um grupo.
+Não pode ingressar no grupo pois você já possui um.
+O grupo está cheio.
+Servidor enviou um código de verificação [%s].
+Você possui %s de serviço.
+Você possui %s minutos e %s segundos de serviço.
+Você usou todo o tempo de serviço.
+Transação não foi completada. Encerrando a conexão.
+Conexão simultânea.
+Conexão encerrada pelo servidor.
+Tente conectar novamente.
+Conta inexistente.
+Conta bloqueada, entre em contato com Suporte.
+Senha incorreta.
+Conta desconectada por conexão simultânea.
+Para participar da Guerra de Guildas aguarde na cidade de sua guilda.
+Guerra de Guildas começará em 3 minutos.
+Guera iniciada. Boa sorte!
+A Guerra de Guildas foi finalizada.
+Iniciando tomada de aplicações do desafiante da guerra entre guildas.
+O desafiante foi escolhido.
+Abaixo de nível 20 não há perda de EXP.
+Você perdeu %s pontos de experiência.
+Na arena não há perda de EXP.
+Uso restrito ao Mestre de Guilda.
+Desclassificado pelo Mestre de Guilda.
+Você tomou o requerimento do adversário.
+O usuário não possui a medalha de líder de guilda.
+Usuários não possuem Medalha de Guilda.
+Não há espaço no inventário para a recompensa do castelo.
+Traga o item que deseja combinar
+Seu item foi combinado.
+Requer 1000000 gold.
+Rápido, ajude os cidadãos.
+Junte suas tropas e ajude o exército de settler a sudoeste de Azran.
+Requer Círculo Divino Puro para a reiniciar as skills.
+Skills foram reiniciadas.
+Você pode agrupar Ori/Lac em 10 unidades.
+Processo de combinação foi concluído.
+Você tem %s horas e %s minutos de serviço.
+Você tem %s dias de serviço.
+Conta em análise, efetue o login mais tarde.
+Não há membros da guilda conectados no jogo.
+% derrotou Lord Jakum.
+Castelo Jakum reiniciará em 10 segundos.
+Não é possível sussurrar para este jogador.
+Para refinar o item são necessários 5000000 Gold.
+Poções não podem ser vendidas.
+Para ajustar a taxa de imposto, digite um valor entre 5 e 25.
+A taxa foi ajustada para %s%%.
+Não é possiível durante a auto venda.
+O item foi vendido.
+Pode ser vendido apenas na cidade.
+Disponível somente para guildas com nomes.
+Só é possível uma vez ao dia.
+%s ganha %s-%s
+Obteve sucesso na refinação.
+São necessários %s safiras para entrar neste reino.
+Que a luz de Sephira o ilumine.
+Que a força divina o abençoe.
+Não possui nível suficiente, retorne mais tarde.
+Reiniciar reino Hekalotia para guerreiro do rei Harbalade.
+Reiniciar reino Akeronia para guerreiro do rei Glentowat.
+Você ganhou %s EXP.
+Reino
+Rei
+Localização foi armazenada.
+[%s Gold]  %s é o desafiante selecionado.
+Necessário autenticação do mestre (guilda) que possui qualificação (reino).
+Você precisa de %s safiras.
+Você precisa utilizar medalha de membro de guilda.
+Servidor cheio. Tente novamente mais tarde.
+Você deve apostar acima de_%s Gold.
+Há uma partida em progresso.
+Batalha entre %s e %s foi iniciada.
+%s(%s) foi derrotado por %s(%s).
+%s é o vencedor, %s é o perdedor desta partida.
+Este jogo com %s e %s finalizou em empate.
+%s ganhou %s.
+Você será removido deste reino se trouxer 16 safiras.
+Tente mais tarde.
+Parabéns!
+Pontos de atributos foram redistribuídos.
+100 pontos de atributos serão redistribuídos se trouxer 16 safiras.
+Você precisa de_%s Gold.
+No momento você não pode equipar arma e armadura.
+Sistema Preço Júnior pode ser utilizado somente entre 13h e 19h.
+Seu ponto caos é %s (Mais_%s).
+Seu ponto caos é %s (Menos_%s).
+Você não pode mais derrotar jogadores. (Atual : %s)
+Guilda %s declarou guerra para a Guilda %s.
+Guilda %s aceitou o desafio da Guilda %s.
+Guilda %s solicitou o cancelamento da guerra com Guilda %s.
+Guerra finalizada.
+Você pode declarar guerra somente para uma guilda.
+Grupo é possível somente para jogadores com diferença de 200 níveis.
+Invocação de Guilda.
+Possível somente na cidade.
+Agora você está em guerra com a Guilda %s.
+Agora %s declarou guerra.
+Você aceitou a declaração de guerra da Guilda %s.
+Guilda %s cancelou a declaração de guerra à Guilda %s.
+Agora %s e %s estão progredindo na quest.
+Não há ninguém atacando o Castelo Jakum.
+Disponível somente para Aço, Sombrio, Águia, Metal.
+Disponível somente para Dourado, Concha, Osso, Combatente.
+Disponível somente para Anã, Conjurador, Aeon, Natureza.
+Disponível somente para Embutido, Mithril, Elemental, Teia.
+Requer o uso do Pergaminho da Água para entrar na Zona Elemental.
+Uso restrito ao líder do grupo.
+Deus te abençoe.
+Se não possuir a chave Gremlin Isca, não poderei lhe dar nada.
+Começou. Pegue isto e siga em frente.
+Recebeu Caixa de Poção de Cura (20) como recompensa.
+Você é um cara de sorte.
+Se não possuir a chave para o portal 2, não poderei ajudá-lo.
+Sua arma parece ruim. Posso resolver isto.
+Como recompensa, a opção da arma foi alterada.
+Preparações estão concluídas exceto por uma coisa.
+Tome a chave que pertence ao Orc Atirador.
+Aqui, isto lhe dará força.
+Armas e Armaduras foram refinadas.
+Há um Castelo Orc ao norte de Armia.
+Traga-me a Capa do Orc ou não haverá recompensa.
+Você não é mais um iniciante. Precisará disto.
+Ganhou um prêmio por finalizar a quest.
+Batalha Real está iniciando para Nv < 100.
+Batalha Real está iniciando para Nv < 200.
+Batalha Real está iniciando para qualquer nível.
+Prêmio do vencedor está no altar.
+Batalha Real para Nv < 100 inicia no coliseu em 2min.
+Batalha Real para Nv < 200 incia no coliseu em 2min.
+Batalha Real para qualquer nível inicia no coliseu em 2min.
+Incubação sucedida.
+Não é mais possível aprimorar.
+Crescimento da montaria foi finalizado.
+Não corresponde à montaria.
+Se trouxer um animal doente, eu irei curá-lo.
+Se deseja curar %s, o custo será de %s Gold.
+Montaria foi curada.
+Tratamento de montaria falhou.
+Incubação não está pronta.
+Período de incubação foi reduzido.
+Sua montaria cresceu.
+Sua montaria morreu de fome.
+Guerra entre Guildas de Erion é somente para nível inferior a 150.
+Medalha de membro de guilda não pode ser trocada às Segundas.
+Mapa do tesouro está concluído.
+Cupom foi registrado.
+Combinação de item falhou.
+%s obteve sucesso na combinação %s.
+Há algo de errado na combinação.
+Chegou um item no Guarda de Carga.
+Não é possível armazenar mais que 2 bilhões de Gold.
+Você aprendeu Skill Sephira [%s].
+Guerra de Castelos iniciará em 5 minutos.
+Guerra de Castelos foi iniciada.
+Guerra de Castelos será finalizada em 5 minutos.
+Guerra de Castelos foi finalizada.
+Você pode utilizar isto somente na Guerra entre Castelos.
+%s conquistou o altar de Thor.
+%s destruiu o Castelo de Noatun.
+Somente para o mesmo Reino.
+Sua guilda reconheceu Guilda %s como aliada.
+Sua guilda está sendo reconhecida como aliada da Guilda %s.
+Aliança finalizada.
+Guilda %s finalizou aliança com Guilda %s.
+Guilda %s solicitou aliança com Guilda %s.
+
+Você pode se aliar somente com uma guilda.
+Guilda %s venceu Guilda %s com pontuação de %s:%s.
+Você deve coletar cinco materiais.
+Obteve sucesso na produção de Griupan.
+Requer 2000000 Gold para produzir um Griupan.
+Você recebeu %s Gold.
+Outros jogadores já estão realizando esta quest.
+Você deve utilizar isto no Altar de Thor.
+Disponível somente na sessão Desafio Quiz.
+Nível Insuficiente. Isto não pode ser utilizado.
+Mensagem Enviada.
+Disposto a seguir o caminho da vida eterna? Adquira antes duas almas.
+Disposto a seguir o caminho da vida eterna? Evolua antes seu nível.
+Insira duas almas para combinação.
+Pedra da Imortalidade foi produzida. Equipe-a e procure o rei do seu reino.
+Adquira oito skills Sephira e procure o Mestre de Skill de Armia.
+Sephirot foi produzido. Equipe-o e procure o rei do seu reino.
+Você não pode proceder no campo de batalha.
+Não há espaço para o Arch. Exclua um personagem.
+Deseja criar o Arch com a Pedra da Imortalidade e Sephirot?
+Deseja produzir Sephirot?
+Você criou o Arch. Que a glória de Sephira esteja com você.
+Requer 8 propriedades de Sephira mais 30.000.000 Gold.
+Indisponível durante a Guerra de Castelos.
+Você já possui um personagem com o mesmo nome.
+Você precisa de mais experiência para criar o Arch.
+%s e seu grupo possuem prioridade.
+Você adquiriu uma maçã.
+Você já pegou a maçã.
+Correto! Você procederá %s passos. (Exp bônus: %s).
+Resposta Incorreta! Você retornará %s passos. (EXP reduz: %s).
+Você deve comprar um cupom no NPC.
+Resposta Incorreta! Você foi forçado a sair.
+Tome a maçã como recompensa. Você retornará em 15 segundos.
+Utilize o pergaminho de Arnold, o ferreiro do sudoeste de Azran.
+Isto pode ser utilizado somente no campo sudoeste de Azran.
+PK - 2 jogadores que aceitarem o confronto irão para o campo.
+Grupo Guerra - 5 membros de ambos os grupos irão para o campo.
+10 jogadores de ambos os grupos irão para a arena de batalha.
+Todos os jogadores de ambos os grupos irão para a arena de batalha.
+Todos os membros de guilda serão invocados.
+Você deve alimentar sua montaria.
+A troca não fica disponível com o modo PK ativado.
+Ainda não há vencedor.
+Tente mais tarde.
+Você está em primeiro lugar. Há um prêmio para você.
+Você está em segundo lugar. Há um prêmio para você.
+Você está em terceiro lugar. Há um prêmio para você.
+Você está em quarto lugar. Você ganhou %s EXP.
+Você está em quinto lugar. Você ganhou 10.000 EXP.
+Você pode comprar cupons da loteria WYD de segunda à sexta.
+Seu nível não permite o uso disto.
+Busca de resultado da loteria.
+Número vencedor: %2d %2d %2d %2d %2d %2d Número da Sorte: %2d
+Número selecionado: %2d %2d %2d %2d %2d %2d 
+%s ganhou %s na loteria WYD.
+Não é possível comer mais.
+Os níveis não são compatíveis para uma batalha, somente para o mesmo nível.
+Para participar do experimento do Arch, você precisa do elixir.
+Você concluiu o "Cubo do Caos". Retorno após 15 segundos.
+Há muitos jogadores.
+Quest em progresso.
+Retorno após 15 segundos.
+Chat foi bloqueado pelo GM.
+Uso do chat está bloqueado.
+Chat foi liberado pra uso.
+Somente jogadores abaixo do nível %s podem participar.
+Quest foi cancelada.
+Os comerciantes surgiram próximo da escultura central.
+Por favor derrote os monstros.
+Por favor utilize outro portal.
+Condições de combinação não são adequadas.
+Lichs foram derrotados.
+Disponível somente quando o nível de Caos for inferior ou igual a -50 pontos.
+Pontos Caos atual: %s
+Não há mais habilidade para iniciar.
+Por favor utilize outro servidor.
+Não é possível vender este item na loja.
+Período Restante: %s HORA %s MIN %s SEG
+Período Restante: %s Dia(s)
+Período de consumo se esgotou.
+Kefra
+Item não pode ser mais obtido.
+Não disponível para menores.
+Somente acima do nível %s pode utilizar.
+Você deve ocupar o cerco durante 30 minutos.
+A partir de agora você pode ocupar o altar de Thor.
+Servidor temporariamente indisponível.
+%s ganhou o prêmio jackpot de %s Gold!!!
+Você obteve sucesso no selamento do Kefra na Guilda %s.
+Este item não pode ser movimentado.
+Experiência Insuficiente.
+Somente personagem de corpo transferido.
+Antes você deve concluir a quest anterior.
+Você concluiu a Quest %s.
+Não há quest em progresso.
+Mensagem:
+Agora o Jackpot é %u Gold.
+Item de transferência de corpo não pode ser utilizado.
+Os itens foram descartados.
+Item pertence a %s.
+Medalha de Guilda não pode ser equipada aos domingos.
+Você conquistou %s Vitória(s) e %s EXP.
+Somente para mestres com qualificações do reino.
+A batalha entre %s e %s finalizou em empate. (%s : %s)
+Quando usar o pacote de 10 Safiras, traga o total exato.
+Quest finalizada.
+Guilda %s derrotou a Guilda %s. (%s : %s)
+A batalha entre %s e %s finalizou em empate. (%s : %s)
+Item somente para Lanhouses.
+Seu ponto foi acumulado.
+Aumentou %s CP.
+Reduziu %s CP.
+8ª Skill pode ser somente da 1ª Classe.
+É necessário aprendar todas as skills antes da 8ª Skill.
+Seu CASH foi recarregado.
+Há um erro no recarregamento do CASH.
+Não é possível utilizar a troca de personagem Arch.
+Servidor indisponível.
+Não é possível aumentar mais que 255 (máx).
+Armadura equipada +6 ou inferior foi refinada.
+Vida de sua montaria foi recuperada em %s.
+Este serviço pode ser utilizado de %d.
+Bloqueio de 3 horas por atitude suspeita ou uso de programa ilegal.
+Você utilizou o item_%s.
+Imposto no momento é %s.
+Você recebeu %s EXP e %s Gold.
+Resposta incorreta!
+Você coletou imposto.
+Pesadelo disponível entre 18h e 24h.
+Você pode conectar após trocar sua senha.
+Você pode usar isto %s vezes.
+Guilda %s foi criada.
+Você entrou na Guilda %s.
+Você é Cidadão deste canal.
+Servidor %s ocupa o Posto Avançado.
+Guerra entre Canais foi iniciada.
+Servidor %s declarou guerra para o Servidor %d.
+Você se cadastrou neste servidor.
+Você está em guerra com o canal %s.
+Nome incorreto, utilize de 5 a 10 caracteres para o nome da guilda.
+Este nome não está disponível para uso.
+Entrada do Calabouço Infernal está disponível.
+Bônus Drop (Cidadania) deste canal é %s.
+Início da Guerra entre Reinos
+Término da Guerra entre Reinos
+Cidadania: %s / Fama: %s
+Item Travado
+Item Destravado
+Um dos dois está travado, o item não pode ser trocado.
+Senha do item é (%s).
+Senha do item alterou para (%s).
+Seu canal declarou guerra para o canal %s.
+Canal %s declarou guerra para seu canal.
+A senha deve conter de 4 a 6 números.
+Sombra Negra apareceu no centro do Castelo de Gelo!
+Refinação Reduzida.
+Personagem Sub-Celestial não pode ser criado neste servidor.
+Não pode ser utilizado neste servidor.
+Missão Encerrada.
+Não confere com a condição da missão.
+Missão Concluída! Você recebeu um item.
+Item Celestial não pode ser utilizado.
+Seu inventário está cheio.
+Salvando ponto WP...
+Possível salvar mais do que 10 pedaços disto.
+Hekalotia (Azul)
+Akeronia (Vermelho)
+Está em guerra.
+Está em trégua.
+%s recusa a guerra.
+Este servidor é o reino de %s.
+Somente para Celestial Nível 200 ou superior.
+Jogador %s obteve sucesso ao refinar item +%s!!
+Jogador %s em %s, aumentou drop em %s.
+Você foi para a cidade, pois o líder do grupo foi derrotado.
+Mensagem de 3 horas.
+Mensagem de 5 horas.
+Você não é um membro desta guilda.
+Selecione um personagem.
+Excluindo personagem. Aguarde...
+Realizando login. Aguarde...
+Senha incorreta.
+Sua conta está bloqueada.
+*** EXP + %s ***
+Adquiriu jóia.
+Milhagem : %s (apêndice:%s)
+Resultou em falha.
+Você deve equipar %s.
+Chegou o item %s
+Ponto de Milhagem - %s.
+Para aprender a skill %s você deve aprender todas as skills desta linhagem. 
+Você aprendeu a skill [%s].
+Não pode atribuir mais de %d pontos
+Não pertence ao evento.
+Tempo conectado acumulado em %s.
+Jogue menos para evitar a fadiga. Taxa de drop reduzida em 50%. Descanse!
+Leilão iniciado. Itens do leilão de hoje -%s-.
+Leilão de hoje foi desativado.
+Tempo restante do leilão: %s segundos. Últimos ofertantes: %s.
+Oferta de item no leilão por %s %s %s
+Lances do leilão de hoje %s %s.
+Área não é segura.
+Recomendado somente no servidor novato.
+Limite de Fama.
+[%s] apareceu.
+Acesso restrito ao reino [%s].
+é o reino que foi atacado. Dobro de EXP para o reino correspondente.
+Pontos de PvP (Kills): %d,%d
+Somente personagem Celestial.
+Faltam pontos de PvP (Kills).
+Guerra de Reino será iniciada após %s minutos. A Guerra de Reino desta semana será realizada no canal %s.
+A Guerra de Torres será iniciada em %s minutos.
+Você só pode participar da Guerra de Torres do seu Canal.
+%s é a Dona desta Zona de Guilda.
+%s Foi designada como Guilda Desafiante.
+O Reino vencedor da Guerra de Torres é o Reino %s . Taxa de Drop foi aumentada.
+O Vencedor da Guerra de Reinos foi o Reino %s . Taxa de Drop foi aumentada.
+
+
+
+
+
+
+Você não possui cidadania. 
+Você já possui cidadania em outro servidor.
+Você não pode tornar-se cidadão durante a Guerra.
+A Kibita lhe forneceu a benção.
+Entregue um Resto de Lactolerium para receber a Benção
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
